@@ -1,6 +1,11 @@
 Java DSL for reading and testing JSON documents.
 
 ------------------------------------------
+0.8.3                           2013-04-18
+------------------------------------------
+- Updated JSON provider factory to allow custom parsers
+
+------------------------------------------
 0.8.1                           2012-04-16
 ------------------------------------------
 - Fixed issue http://code.google.com/p/json-path/issues/detail?id=11
